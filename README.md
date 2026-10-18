@@ -1,6 +1,6 @@
 # Tugas 5 - Implementasi Pengujian Perangkat Lunak: Black-box Testing (Equivalence Partitioning & BVA)
 
-[![CI Pipeline](https://github.com/jackyfirmansah/tugas-5-black-box-testing/actions/workflows/test.yml/badge.svg)](https://github.com/jackyfirmansah/tugas-5-black-box-testing/actions)
+[![CI Pipeline](https://github.com/jackalwyssad/tugas-5-black-box-testing/actions/workflows/test.yml/badge.svg)](https://github.com/jackalwyssad/tugas-5-black-box-testing/actions)
 ![Node.js Version](https://img.shields.io/badge/Node.js-v20%2B-brightgreen)
 ![Tests](https://img.shields.io/badge/Tests-131%20Passed-success)
 ![Coverage](https://img.shields.io/badge/Coverage-100%25-blue)
@@ -98,7 +98,7 @@ Repositori ini menggunakan fitur bawaan Node.js Test Runner (`node --test`), tan
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/jackyfirmansah/tugas-5-black-box-testing.git
+git clone https://github.com/jackalwyssad/tugas-5-black-box-testing.git
 cd tugas-5-black-box-testing
 
 # 2. Jalankan semua pengujian (131 test cases)
