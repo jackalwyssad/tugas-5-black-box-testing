@@ -1,0 +1,22 @@
+{
+  "name": "tugas-5-black-box-testing",
+  "version": "1.0.0",
+  "description": "Tugas 5 Implementasi Pengujian Perangkat Lunak - Black-box Testing (Equivalence Partitioning & Boundary Value Analysis) - STMIK Bandung",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "test:unit": "node --test tests/soal1_login.test.js tests/soal2_ticket.test.js tests/soal3_student.test.js tests/soal4_bank.test.js",
+    "test:blackbox": "node --test tests/soal5_account_registration.test.js tests/soal7_online_registration.test.js",
+    "test:api": "node --test tests/soal6_product_api.test.js"
+  },
+  "keywords": [
+    "black-box-testing",
+    "equivalence-partitioning",
+    "boundary-value-analysis",
+    "software-testing",
+    "stmik-bandung"
+  ],
+  "author": "Jacky Firmansah",
+  "license": "MIT"
+}
